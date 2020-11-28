@@ -1,4 +1,4 @@
-# Sorting_visualizer_project
+# Sorting Visualizer Project
 The project is built out of python and uses the tkinter module to visualize the way 3 of the most popular sorting algorithms works. The algorithms visualized are:
 
 Insertion Sort
